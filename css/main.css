@@ -36,9 +36,22 @@ img#slideshow{
 	border-bottom: 10px solid #021428
 	width:100%;
 }
+/* Home Page */
 /*Paragraph*/
 #paragraph{
 	margin: 50px 100px;
+}
+/* Services Page */
+h1#page-title{
+	margin-left:400px;
+	color:#021428;
+}
+img#services-slide{
+	margin-left:400px;
+	width:70%;
+}
+section#services-p{
+	margin:100px 100px 100px 400px;
 }
 /*Footer*/
 footer{
