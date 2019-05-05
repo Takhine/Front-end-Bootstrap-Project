@@ -59,21 +59,21 @@ img#project1-image, img#project2-image, img#project3-image{
 	margin-bottom: 20px;
 }
 div#project1{
-	margin-left:820px;
+	margin-left:850px;
 	position:absolute;
 	top:100px;
 	left: 0;
 	width:460px;
 }
 div#project2{
-	margin-left:820px;
+	margin-left:850px;
 	position:absolute;
 	top:330px;
 	width:460px;
 	left: 0;
 }
 div#project3{
-	margin-left:820px;
+	margin-left:850px;
 	position:absolute;
 	top:650px;
 	left: 0;
